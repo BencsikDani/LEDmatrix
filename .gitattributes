@@ -1,6 +1,6 @@
-*.SchDot linguist-language="Altium Designer"
-*.OutJob linguist-language="Altium Designer"
-*.PcbLib linguist-language="Altium Designer"
-*.SchLib linguist-language="Altium Designer"
-*.PrjPcb linguist-language="Altium Designer"
-*.PcbDoc linguist-language="Altium Designer"
+*.SchDot linguist-language=altium
+*.OutJob linguist-language=altium
+*.PcbLib linguist-language=altium
+*.SchLib linguist-language=altium
+*.PrjPcb linguist-language=altium
+*.PcbDoc linguist-language=altium
