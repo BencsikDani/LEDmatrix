@@ -1,6 +1,6 @@
-*.SchDot linguist-language=altium
-*.OutJob linguist-language=altium
-*.PcbLib linguist-language=altium
-*.SchLib linguist-language=altium
-*.PrjPcb linguist-language=altium
-*.PcbDoc linguist-language=altium
+*.OutJob linguist-detectable
+*.PcbDoc linguist-detectable
+*.PrjPcb linguist-detectable
+*.SchDot linguist-detectable
+*.PcbLib linguist-detectable
+*.SchLib linguist-detectable
