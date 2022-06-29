@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 20:31:56 On 2021. 05. 09.
+
+Output: Bill of Materials
+Type  : BOM
+From  : Project [BencsikDanielZoltan_A7.PrjPcb]
+   Generated File[BencsikDanielZoltan_A7.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:32:00 On 2021. 05. 09.

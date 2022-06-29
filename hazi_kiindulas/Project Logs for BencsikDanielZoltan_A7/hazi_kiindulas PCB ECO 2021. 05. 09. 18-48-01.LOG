@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SPI2_NSS Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=SPI2_SCK Pin=U3-3
+Removed Pin From Net: NetName=SPI2_MISO Pin=U3-4
+Removed Pin From Net: NetName=5V Pin=U3-5
+Change Component Footprint: Designator=U3 Old Footprint=HF_SOT95P280X145-5M New Footprint=HF_SOIC127P599X175-8N
+Added Pin To Net: NetName=SPI2_MISO Pin=U3-1
+Added Pin To Net: NetName=SPI2_SCK Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=SPI2_NSS Pin=U3-7
+Added Pin To Net: NetName=5V Pin=U3-8

@@ -1,0 +1,735 @@
+Change Component Comment : Designator=R3 Old Comment=2K70 New Comment=5K10
+Change Component Comment : Designator=R4 Old Comment=2K70 New Comment=5K10
+Change Component Comment : Designator=R5 Old Comment=2K70 New Comment=5K10
+Change Component Comment : Designator=R6 Old Comment=2K70 New Comment=5K10
+Change Component Comment : Designator=R7A Old Comment=2K70 New Comment=5K10
+Change Component Comment : Designator=R7B Old Comment=2K70 New Comment=5K10
+Change Component Comment : Designator=R7C Old Comment=2K70 New Comment=5K10
+Change Component Comment : Designator=R7D Old Comment=2K70 New Comment=5K10
+Change Component Comment : Designator=R7E Old Comment=2K70 New Comment=5K10
+Change Component Comment : Designator=R7F Old Comment=2K70 New Comment=5K10
+Change Component Comment : Designator=R7G Old Comment=2K70 New Comment=5K10
+Change Component Comment : Designator=R7H Old Comment=2K70 New Comment=5K10
+Change Component Comment : Designator=R2 Old Comment=2K70 New Comment=330R
+Change Component Designator: OldDesignator= NewDesignator=D0A
+Change Component Designator: OldDesignator= NewDesignator=D0B
+Change Component Designator: OldDesignator= NewDesignator=D0C
+Change Component Designator: OldDesignator= NewDesignator=D0D
+Change Component Designator: OldDesignator= NewDesignator=D0E
+Change Component Designator: OldDesignator= NewDesignator=D0F
+Change Component Designator: OldDesignator= NewDesignator=D0G
+Change Component Designator: OldDesignator= NewDesignator=D0H
+Change Component Designator: OldDesignator= NewDesignator=D1A
+Change Component Designator: OldDesignator= NewDesignator=D1B
+Change Component Designator: OldDesignator= NewDesignator=D1C
+Change Component Designator: OldDesignator= NewDesignator=D1D
+Change Component Designator: OldDesignator= NewDesignator=D1E
+Change Component Designator: OldDesignator= NewDesignator=D1F
+Change Component Designator: OldDesignator= NewDesignator=D1G
+Change Component Designator: OldDesignator= NewDesignator=D1H
+Change Component Designator: OldDesignator= NewDesignator=D2A
+Change Component Designator: OldDesignator= NewDesignator=D2B
+Change Component Designator: OldDesignator= NewDesignator=D2C
+Change Component Designator: OldDesignator= NewDesignator=D2D
+Change Component Designator: OldDesignator= NewDesignator=D2E
+Change Component Designator: OldDesignator= NewDesignator=D2F
+Change Component Designator: OldDesignator= NewDesignator=D2G
+Change Component Designator: OldDesignator= NewDesignator=D2H
+Change Component Designator: OldDesignator= NewDesignator=D3A
+Change Component Designator: OldDesignator= NewDesignator=D3B
+Change Component Designator: OldDesignator= NewDesignator=D3C
+Change Component Designator: OldDesignator= NewDesignator=D3D
+Change Component Designator: OldDesignator= NewDesignator=D3E
+Change Component Designator: OldDesignator= NewDesignator=D3F
+Change Component Designator: OldDesignator= NewDesignator=D3G
+Change Component Designator: OldDesignator= NewDesignator=D3H
+Change Component Designator: OldDesignator= NewDesignator=D4A
+Change Component Designator: OldDesignator= NewDesignator=D4B
+Change Component Designator: OldDesignator= NewDesignator=D4C
+Change Component Designator: OldDesignator= NewDesignator=D4D
+Change Component Designator: OldDesignator= NewDesignator=D4E
+Change Component Designator: OldDesignator= NewDesignator=D4F
+Change Component Designator: OldDesignator= NewDesignator=D4G
+Change Component Designator: OldDesignator= NewDesignator=D4H
+Change Component Designator: OldDesignator= NewDesignator=D5A
+Change Component Designator: OldDesignator= NewDesignator=D5B
+Change Component Designator: OldDesignator= NewDesignator=D5C
+Change Component Designator: OldDesignator= NewDesignator=D5D
+Change Component Designator: OldDesignator= NewDesignator=D5E
+Change Component Designator: OldDesignator= NewDesignator=D5F
+Change Component Designator: OldDesignator= NewDesignator=D5G
+Change Component Designator: OldDesignator= NewDesignator=D5H
+Change Component Designator: OldDesignator= NewDesignator=D6A
+Change Component Designator: OldDesignator= NewDesignator=D6B
+Change Component Designator: OldDesignator= NewDesignator=D6C
+Change Component Designator: OldDesignator= NewDesignator=D6D
+Change Component Designator: OldDesignator= NewDesignator=D6E
+Change Component Designator: OldDesignator= NewDesignator=D6F
+Change Component Designator: OldDesignator= NewDesignator=D6G
+Change Component Designator: OldDesignator= NewDesignator=D6H
+Change Component Designator: OldDesignator= NewDesignator=D7A
+Change Component Designator: OldDesignator= NewDesignator=D7B
+Change Component Designator: OldDesignator= NewDesignator=D7C
+Change Component Designator: OldDesignator= NewDesignator=D7D
+Change Component Designator: OldDesignator= NewDesignator=D7E
+Change Component Designator: OldDesignator= NewDesignator=D7F
+Change Component Designator: OldDesignator= NewDesignator=D7G
+Change Component Designator: OldDesignator= NewDesignator=D7H
+Change Component Designator: OldDesignator= NewDesignator=Q1A
+Change Component Designator: OldDesignator= NewDesignator=Q1B
+Change Component Designator: OldDesignator= NewDesignator=Q1C
+Change Component Designator: OldDesignator= NewDesignator=Q1D
+Change Component Designator: OldDesignator= NewDesignator=Q1E
+Change Component Designator: OldDesignator= NewDesignator=Q1F
+Change Component Designator: OldDesignator= NewDesignator=Q1G
+Change Component Designator: OldDesignator= NewDesignator=Q1H
+Change component parameters: Designator = "U3" ("U3"); Footprint = "HF_SOT95P280X145-5M"; UniqueID = "\TECNKSDD\VUADGSQY" ("\TECNKSDD\VUADGSQY")
+Change component parameters (AddParameter): Name = "Name"; Value = "TC77-5.0MOA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "1439514"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1" ("P1"); Footprint = "HF_POT"; UniqueID = "\TECNKSDD\HIOPUYHD" ("\TECNKSDD\HIOPUYHD")
+Change component parameters (AddParameter): Name = "Name"; Value = "10K0 3305-103R (KIC) 3x3.5mm CERMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "90-00-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("Q1"); Footprint = "FP_SOT23-3"; UniqueID = "\TECNKSDD\IXAQKATS\NUFJUKVK" ("\TECNKSDD\IXAQKATS\NUFJUKVK")
+Change component parameters (AddParameter): Name = "Name"; Value = "BSS84AK (NXP) P-FET 50V 0.18A <7.5R SOT-23 ½VS½"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "86-05-45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("Q1"); Footprint = "FP_SOT23-3"; UniqueID = "\TECNKSDD\NHZGNUHE\NUFJUKVK" ("\TECNKSDD\NHZGNUHE\NUFJUKVK")
+Change component parameters (AddParameter): Name = "Name"; Value = "BSS84AK (NXP) P-FET 50V 0.18A <7.5R SOT-23 ½VS½"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "86-05-45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("Q1"); Footprint = "FP_SOT23-3"; UniqueID = "\TECNKSDD\MNCLEIAE\NUFJUKVK" ("\TECNKSDD\MNCLEIAE\NUFJUKVK")
+Change component parameters (AddParameter): Name = "Name"; Value = "BSS84AK (NXP) P-FET 50V 0.18A <7.5R SOT-23 ½VS½"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "86-05-45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("Q1"); Footprint = "FP_SOT23-3"; UniqueID = "\TECNKSDD\QBQHVAAH\NUFJUKVK" ("\TECNKSDD\QBQHVAAH\NUFJUKVK")
+Change component parameters (AddParameter): Name = "Name"; Value = "BSS84AK (NXP) P-FET 50V 0.18A <7.5R SOT-23 ½VS½"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "86-05-45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("Q1"); Footprint = "FP_SOT23-3"; UniqueID = "\TECNKSDD\HXPWUOQL\NUFJUKVK" ("\TECNKSDD\HXPWUOQL\NUFJUKVK")
+Change component parameters (AddParameter): Name = "Name"; Value = "BSS84AK (NXP) P-FET 50V 0.18A <7.5R SOT-23 ½VS½"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "86-05-45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("Q1"); Footprint = "FP_SOT23-3"; UniqueID = "\TECNKSDD\OGGHVANU\NUFJUKVK" ("\TECNKSDD\OGGHVANU\NUFJUKVK")
+Change component parameters (AddParameter): Name = "Name"; Value = "BSS84AK (NXP) P-FET 50V 0.18A <7.5R SOT-23 ½VS½"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "86-05-45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("Q1"); Footprint = "FP_SOT23-3"; UniqueID = "\TECNKSDD\IEODOEJX\NUFJUKVK" ("\TECNKSDD\IEODOEJX\NUFJUKVK")
+Change component parameters (AddParameter): Name = "Name"; Value = "BSS84AK (NXP) P-FET 50V 0.18A <7.5R SOT-23 ½VS½"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "86-05-45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("Q1"); Footprint = "FP_SOT23-3"; UniqueID = "\TECNKSDD\CUGSRYVC\NUFJUKVK" ("\TECNKSDD\CUGSRYVC\NUFJUKVK")
+Change component parameters (AddParameter): Name = "Name"; Value = "BSS84AK (NXP) P-FET 50V 0.18A <7.5R SOT-23 ½VS½"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "86-05-45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D7"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IXAQKATS\XCITUCKV" ("\TECNKSDD\IXAQKATS\XCITUCKV")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D7"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\NHZGNUHE\XCITUCKV" ("\TECNKSDD\NHZGNUHE\XCITUCKV")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D7"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\MNCLEIAE\XCITUCKV" ("\TECNKSDD\MNCLEIAE\XCITUCKV")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D7"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\QBQHVAAH\XCITUCKV" ("\TECNKSDD\QBQHVAAH\XCITUCKV")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D7"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\HXPWUOQL\XCITUCKV" ("\TECNKSDD\HXPWUOQL\XCITUCKV")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D7"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\OGGHVANU\XCITUCKV" ("\TECNKSDD\OGGHVANU\XCITUCKV")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D7"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IEODOEJX\XCITUCKV" ("\TECNKSDD\IEODOEJX\XCITUCKV")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D7"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\CUGSRYVC\XCITUCKV" ("\TECNKSDD\CUGSRYVC\XCITUCKV")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D6"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IXAQKATS\EAMFOZXT" ("\TECNKSDD\IXAQKATS\EAMFOZXT")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D6"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\NHZGNUHE\EAMFOZXT" ("\TECNKSDD\NHZGNUHE\EAMFOZXT")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D6"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\MNCLEIAE\EAMFOZXT" ("\TECNKSDD\MNCLEIAE\EAMFOZXT")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D6"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\QBQHVAAH\EAMFOZXT" ("\TECNKSDD\QBQHVAAH\EAMFOZXT")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D6"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\HXPWUOQL\EAMFOZXT" ("\TECNKSDD\HXPWUOQL\EAMFOZXT")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D6"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\OGGHVANU\EAMFOZXT" ("\TECNKSDD\OGGHVANU\EAMFOZXT")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D6"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IEODOEJX\EAMFOZXT" ("\TECNKSDD\IEODOEJX\EAMFOZXT")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D6"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\CUGSRYVC\EAMFOZXT" ("\TECNKSDD\CUGSRYVC\EAMFOZXT")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D5"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IXAQKATS\DSQRMDYA" ("\TECNKSDD\IXAQKATS\DSQRMDYA")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D5"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\NHZGNUHE\DSQRMDYA" ("\TECNKSDD\NHZGNUHE\DSQRMDYA")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D5"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\MNCLEIAE\DSQRMDYA" ("\TECNKSDD\MNCLEIAE\DSQRMDYA")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D5"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\QBQHVAAH\DSQRMDYA" ("\TECNKSDD\QBQHVAAH\DSQRMDYA")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D5"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\HXPWUOQL\DSQRMDYA" ("\TECNKSDD\HXPWUOQL\DSQRMDYA")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D5"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\OGGHVANU\DSQRMDYA" ("\TECNKSDD\OGGHVANU\DSQRMDYA")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D5"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IEODOEJX\DSQRMDYA" ("\TECNKSDD\IEODOEJX\DSQRMDYA")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D5"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\CUGSRYVC\DSQRMDYA" ("\TECNKSDD\CUGSRYVC\DSQRMDYA")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D4"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IXAQKATS\KMUSKFOK" ("\TECNKSDD\IXAQKATS\KMUSKFOK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D4"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\NHZGNUHE\KMUSKFOK" ("\TECNKSDD\NHZGNUHE\KMUSKFOK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D4"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\MNCLEIAE\KMUSKFOK" ("\TECNKSDD\MNCLEIAE\KMUSKFOK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D4"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\QBQHVAAH\KMUSKFOK" ("\TECNKSDD\QBQHVAAH\KMUSKFOK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D4"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\HXPWUOQL\KMUSKFOK" ("\TECNKSDD\HXPWUOQL\KMUSKFOK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D4"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\OGGHVANU\KMUSKFOK" ("\TECNKSDD\OGGHVANU\KMUSKFOK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D4"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IEODOEJX\KMUSKFOK" ("\TECNKSDD\IEODOEJX\KMUSKFOK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D4"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\CUGSRYVC\KMUSKFOK" ("\TECNKSDD\CUGSRYVC\KMUSKFOK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D3"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IXAQKATS\LUABFJQC" ("\TECNKSDD\IXAQKATS\LUABFJQC")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D3"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\NHZGNUHE\LUABFJQC" ("\TECNKSDD\NHZGNUHE\LUABFJQC")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D3"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\MNCLEIAE\LUABFJQC" ("\TECNKSDD\MNCLEIAE\LUABFJQC")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D3"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\QBQHVAAH\LUABFJQC" ("\TECNKSDD\QBQHVAAH\LUABFJQC")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D3"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\HXPWUOQL\LUABFJQC" ("\TECNKSDD\HXPWUOQL\LUABFJQC")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D3"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\OGGHVANU\LUABFJQC" ("\TECNKSDD\OGGHVANU\LUABFJQC")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D3"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IEODOEJX\LUABFJQC" ("\TECNKSDD\IEODOEJX\LUABFJQC")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D3"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\CUGSRYVC\LUABFJQC" ("\TECNKSDD\CUGSRYVC\LUABFJQC")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D2"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IXAQKATS\STBDQLLY" ("\TECNKSDD\IXAQKATS\STBDQLLY")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D2"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\NHZGNUHE\STBDQLLY" ("\TECNKSDD\NHZGNUHE\STBDQLLY")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D2"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\MNCLEIAE\STBDQLLY" ("\TECNKSDD\MNCLEIAE\STBDQLLY")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D2"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\QBQHVAAH\STBDQLLY" ("\TECNKSDD\QBQHVAAH\STBDQLLY")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D2"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\HXPWUOQL\STBDQLLY" ("\TECNKSDD\HXPWUOQL\STBDQLLY")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D2"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\OGGHVANU\STBDQLLY" ("\TECNKSDD\OGGHVANU\STBDQLLY")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D2"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IEODOEJX\STBDQLLY" ("\TECNKSDD\IEODOEJX\STBDQLLY")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D2"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\CUGSRYVC\STBDQLLY" ("\TECNKSDD\CUGSRYVC\STBDQLLY")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D1"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IXAQKATS\ODQHOLQK" ("\TECNKSDD\IXAQKATS\ODQHOLQK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D1"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\NHZGNUHE\ODQHOLQK" ("\TECNKSDD\NHZGNUHE\ODQHOLQK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D1"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\MNCLEIAE\ODQHOLQK" ("\TECNKSDD\MNCLEIAE\ODQHOLQK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D1"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\QBQHVAAH\ODQHOLQK" ("\TECNKSDD\QBQHVAAH\ODQHOLQK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D1"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\HXPWUOQL\ODQHOLQK" ("\TECNKSDD\HXPWUOQL\ODQHOLQK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D1"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\OGGHVANU\ODQHOLQK" ("\TECNKSDD\OGGHVANU\ODQHOLQK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D1"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IEODOEJX\ODQHOLQK" ("\TECNKSDD\IEODOEJX\ODQHOLQK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D1"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\CUGSRYVC\ODQHOLQK" ("\TECNKSDD\CUGSRYVC\ODQHOLQK")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D0"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IXAQKATS\VTJMSTCU" ("\TECNKSDD\IXAQKATS\VTJMSTCU")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D0"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\NHZGNUHE\VTJMSTCU" ("\TECNKSDD\NHZGNUHE\VTJMSTCU")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D0"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\MNCLEIAE\VTJMSTCU" ("\TECNKSDD\MNCLEIAE\VTJMSTCU")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D0"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\QBQHVAAH\VTJMSTCU" ("\TECNKSDD\QBQHVAAH\VTJMSTCU")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D0"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\HXPWUOQL\VTJMSTCU" ("\TECNKSDD\HXPWUOQL\VTJMSTCU")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D0"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\OGGHVANU\VTJMSTCU" ("\TECNKSDD\OGGHVANU\VTJMSTCU")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D0"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\IEODOEJX\VTJMSTCU" ("\TECNKSDD\IEODOEJX\VTJMSTCU")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "" ("D0"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\CUGSRYVC\VTJMSTCU" ("\TECNKSDD\CUGSRYVC\VTJMSTCU")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 BLUE 465nm 170mcd FYLS-0805UBC (FYL) W.CLEAR 2.0x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-01-58"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "B0" ("B0"); Footprint = "FP_BTN_SMD"; UniqueID = "\TECNKSDD\HDCUBSYR" ("\TECNKSDD\HDCUBSYR")
+Change component parameters (AddParameter): Name = "Name"; Value = "TACT 6x 6 4P SPST 2 FSM4JSMA (TYC) 50mA 12VDC SMD H=5mm 160g BLACK B. 4-1437565-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "45-05-43"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "B1" ("B1"); Footprint = "FP_BTN_SMD"; UniqueID = "\TECNKSDD\LXWPJCZF" ("\TECNKSDD\LXWPJCZF")
+Change component parameters (AddParameter): Name = "Name"; Value = "TACT 6x 6 4P SPST 2 FSM4JSMA (TYC) 50mA 12VDC SMD H=5mm 160g BLACK B. 4-1437565-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "45-05-43"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "B2" ("B2"); Footprint = "FP_BTN_SMD"; UniqueID = "\TECNKSDD\ECHQDDKC" ("\TECNKSDD\ECHQDDKC")
+Change component parameters (AddParameter): Name = "Name"; Value = "TACT 6x 6 4P SPST 2 FSM4JSMA (TYC) 50mA 12VDC SMD H=5mm 160g BLACK B. 4-1437565-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "45-05-43"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "B3" ("B3"); Footprint = "FP_BTN_SMD"; UniqueID = "\TECNKSDD\CZGCASLK" ("\TECNKSDD\CZGCASLK")
+Change component parameters (AddParameter): Name = "Name"; Value = "TACT 6x 6 4P SPST 2 FSM4JSMA (TYC) 50mA 12VDC SMD H=5mm 160g BLACK B. 4-1437565-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "45-05-43"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP_0603_CAP_080"; UniqueID = "\TECNKSDD\QPXVVECS" ("\TECNKSDD\QPXVVECS")
+Change component parameters (AddParameter): Name = "Name"; Value = "100nF 0603 10% 50V X7R CC0603KPX7R9BB104 (YAG)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "82-12-71"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "FP_0603_CAP_080"; UniqueID = "\TECNKSDD\TRSKFISL" ("\TECNKSDD\TRSKFISL")
+Change component parameters (AddParameter): Name = "Name"; Value = "100nF 0603 10% 50V X7R CC0603KPX7R9BB104 (YAG)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "82-12-71"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "FP_0603_CAP_080"; UniqueID = "\TECNKSDD\GDXAPEOI" ("\TECNKSDD\GDXAPEOI")
+Change component parameters (AddParameter): Name = "Name"; Value = "100nF 0603 10% 50V X7R CC0603KPX7R9BB104 (YAG)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "82-12-71"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "HF_FP_0805_LED_BLUE&RED_2"; UniqueID = "\TECNKSDD\ODREMFRC" ("\TECNKSDD\ODREMFRC")
+Change component parameters (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "2012 RED 631nm 80mcd FYLS-0805URC (FYL) W.CLEAR 2x1.2x0.8mm 0805 130°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "95-02-74"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D9" ("D9"); Footprint = "FP_SMA"; UniqueID = "\TECNKSDD\JOHWAKWA" ("\TECNKSDD\JOHWAKWA")
+Change component parameters (AddParameter): Name = "Name"; Value = "SMAJ5.0A-E3/5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "1815679"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_Z"; Value = "24"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1" ("F1"); Footprint = "FP_MULTIFUSE"; UniqueID = "\TECNKSDD\XACZMFYN" ("\TECNKSDD\XACZMFYN")
+Change component parameters (AddParameter): Name = "Name"; Value = "1.25A 15V 1812L125/16DR POLYFUSE SMD 1812 (LFS) ½LF125-16½"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "44-04-71"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\RZOXDKGF" ("\TECNKSDD\RZOXDKGF")
+Change component parameters (AddParameter): Name = "Name"; Value = "200R 0603 5% RK73B1JTTD201J 0.1W (KOA) £"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-04-08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "TSOP65P640X120-16M"; UniqueID = "\TECNKSDD\JJQLOLJM" ("\TECNKSDD\JJQLOLJM")
+Change component parameters (AddParameter): Name = "Name"; Value = "STP08CP05TTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "STP08CP05TTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Tanszék"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\FMAZMLLH" ("\TECNKSDD\FMAZMLLH")
+Change component parameters (AddParameter): Name = "Name"; Value = "330R 0603 5% WR06X331JTL 0.1W (WAL)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-17-48"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\XEXKIPYV" ("\TECNKSDD\XEXKIPYV")
+Change component parameters (AddParameter): Name = "Name"; Value = "5K10 0603 5% WR06X512JTL 0.1W (WAL)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-28-96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5K10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\CHCFNFFG" ("\TECNKSDD\CHCFNFFG")
+Change component parameters (AddParameter): Name = "Name"; Value = "5K10 0603 5% WR06X512JTL 0.1W (WAL)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-28-96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5K10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\UCUZVMCZ" ("\TECNKSDD\UCUZVMCZ")
+Change component parameters (AddParameter): Name = "Name"; Value = "5K10 0603 5% WR06X512JTL 0.1W (WAL)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-28-96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5K10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\LRZOOOES" ("\TECNKSDD\LRZOOOES")
+Change component parameters (AddParameter): Name = "Name"; Value = "5K10 0603 5% WR06X512JTL 0.1W (WAL)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-28-96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5K10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7A" ("R7"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\CUGSRYVC\APRBSRLN" ("\TECNKSDD\CUGSRYVC\APRBSRLN")
+Change component parameters (AddParameter): Name = "Name"; Value = "5K10 0603 5% WR06X512JTL 0.1W (WAL)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-28-96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5K10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7B" ("R7"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\IEODOEJX\APRBSRLN" ("\TECNKSDD\IEODOEJX\APRBSRLN")
+Change component parameters (AddParameter): Name = "Name"; Value = "5K10 0603 5% WR06X512JTL 0.1W (WAL)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-28-96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5K10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7C" ("R7"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\OGGHVANU\APRBSRLN" ("\TECNKSDD\OGGHVANU\APRBSRLN")
+Change component parameters (AddParameter): Name = "Name"; Value = "5K10 0603 5% WR06X512JTL 0.1W (WAL)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-28-96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5K10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7D" ("R7"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\HXPWUOQL\APRBSRLN" ("\TECNKSDD\HXPWUOQL\APRBSRLN")
+Change component parameters (AddParameter): Name = "Name"; Value = "5K10 0603 5% WR06X512JTL 0.1W (WAL)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-28-96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5K10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7E" ("R7"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\QBQHVAAH\APRBSRLN" ("\TECNKSDD\QBQHVAAH\APRBSRLN")
+Change component parameters (AddParameter): Name = "Name"; Value = "5K10 0603 5% WR06X512JTL 0.1W (WAL)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-28-96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5K10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7F" ("R7"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\MNCLEIAE\APRBSRLN" ("\TECNKSDD\MNCLEIAE\APRBSRLN")
+Change component parameters (AddParameter): Name = "Name"; Value = "5K10 0603 5% WR06X512JTL 0.1W (WAL)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-28-96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5K10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7G" ("R7"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\NHZGNUHE\APRBSRLN" ("\TECNKSDD\NHZGNUHE\APRBSRLN")
+Change component parameters (AddParameter): Name = "Name"; Value = "5K10 0603 5% WR06X512JTL 0.1W (WAL)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-28-96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5K10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7H" ("R7"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\IXAQKATS\APRBSRLN" ("\TECNKSDD\IXAQKATS\APRBSRLN")
+Change component parameters (AddParameter): Name = "Name"; Value = "5K10 0603 5% WR06X512JTL 0.1W (WAL)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "81-28-96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5K10"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D0A (D0) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D0B (D0) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D0C (D0) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D0D (D0) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D0E (D0) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D0F (D0) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D0G (D0) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D0H (D0) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D1A (D1) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D1B (D1) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D1C (D1) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D1D (D1) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D1E (D1) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D1F (D1) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D1G (D1) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D1H (D1) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D2A (D2) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D2B (D2) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D2C (D2) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D2D (D2) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D2E (D2) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D2F (D2) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D2G (D2) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D2H (D2) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D3A (D3) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D3B (D3) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D3C (D3) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D3D (D3) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D3E (D3) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D3F (D3) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D3G (D3) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D3H (D3) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D4A (D4) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D4B (D4) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D4C (D4) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D4D (D4) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D4E (D4) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D4F (D4) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D4G (D4) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D4H (D4) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D5A (D5) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D5B (D5) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D5C (D5) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D5D (D5) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D5E (D5) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D5F (D5) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D5G (D5) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D5H (D5) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D6A (D6) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D6B (D6) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D6C (D6) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D6D (D6) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D6E (D6) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D6F (D6) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D6G (D6) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D6H (D6) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D7A (D7) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D7B (D7) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D7C (D7) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D7D (D7) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D7E (D7) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D7F (D7) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D7G (D7) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D7H (D7) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component Q1A (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor2 Member=Component Q1B (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor3 Member=Component Q1C (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor4 Member=Component Q1D (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor5 Member=Component Q1E (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor6 Member=Component Q1F (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor7 Member=Component Q1G (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor8 Member=Component Q1H (Q1) PMOS

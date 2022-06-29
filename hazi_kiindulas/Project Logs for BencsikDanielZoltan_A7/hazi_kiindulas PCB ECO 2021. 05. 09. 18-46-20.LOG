@@ -1,0 +1,158 @@
+Removed Pin From Net: NetName=SPI2_NSS Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=SPI2_SCK Pin=U3-3
+Removed Pin From Net: NetName=SPI2_MISO Pin=U3-4
+Removed Pin From Net: NetName=5V Pin=U3-5
+Change Component Footprint: Designator=U3 Old Footprint=HF_SOT95P280X145-5M New Footprint=HF_SOIC127P599X175-8N
+Change Component Designator: OldDesignator= NewDesignator=D0A
+Change Component Designator: OldDesignator= NewDesignator=D0B
+Change Component Designator: OldDesignator= NewDesignator=D0C
+Change Component Designator: OldDesignator= NewDesignator=D0D
+Change Component Designator: OldDesignator= NewDesignator=D0E
+Change Component Designator: OldDesignator= NewDesignator=D0F
+Change Component Designator: OldDesignator= NewDesignator=D0G
+Change Component Designator: OldDesignator= NewDesignator=D0H
+Change Component Designator: OldDesignator= NewDesignator=D1A
+Change Component Designator: OldDesignator= NewDesignator=D1B
+Change Component Designator: OldDesignator= NewDesignator=D1C
+Change Component Designator: OldDesignator= NewDesignator=D1D
+Change Component Designator: OldDesignator= NewDesignator=D1E
+Change Component Designator: OldDesignator= NewDesignator=D1F
+Change Component Designator: OldDesignator= NewDesignator=D1G
+Change Component Designator: OldDesignator= NewDesignator=D1H
+Change Component Designator: OldDesignator= NewDesignator=D2A
+Change Component Designator: OldDesignator= NewDesignator=D2B
+Change Component Designator: OldDesignator= NewDesignator=D2C
+Change Component Designator: OldDesignator= NewDesignator=D2D
+Change Component Designator: OldDesignator= NewDesignator=D2E
+Change Component Designator: OldDesignator= NewDesignator=D2F
+Change Component Designator: OldDesignator= NewDesignator=D2G
+Change Component Designator: OldDesignator= NewDesignator=D2H
+Change Component Designator: OldDesignator= NewDesignator=D3A
+Change Component Designator: OldDesignator= NewDesignator=D3B
+Change Component Designator: OldDesignator= NewDesignator=D3C
+Change Component Designator: OldDesignator= NewDesignator=D3D
+Change Component Designator: OldDesignator= NewDesignator=D3E
+Change Component Designator: OldDesignator= NewDesignator=D3F
+Change Component Designator: OldDesignator= NewDesignator=D3G
+Change Component Designator: OldDesignator= NewDesignator=D3H
+Change Component Designator: OldDesignator= NewDesignator=D4A
+Change Component Designator: OldDesignator= NewDesignator=D4B
+Change Component Designator: OldDesignator= NewDesignator=D4C
+Change Component Designator: OldDesignator= NewDesignator=D4D
+Change Component Designator: OldDesignator= NewDesignator=D4E
+Change Component Designator: OldDesignator= NewDesignator=D4F
+Change Component Designator: OldDesignator= NewDesignator=D4G
+Change Component Designator: OldDesignator= NewDesignator=D4H
+Change Component Designator: OldDesignator= NewDesignator=D5A
+Change Component Designator: OldDesignator= NewDesignator=D5B
+Change Component Designator: OldDesignator= NewDesignator=D5C
+Change Component Designator: OldDesignator= NewDesignator=D5D
+Change Component Designator: OldDesignator= NewDesignator=D5E
+Change Component Designator: OldDesignator= NewDesignator=D5F
+Change Component Designator: OldDesignator= NewDesignator=D5G
+Change Component Designator: OldDesignator= NewDesignator=D5H
+Change Component Designator: OldDesignator= NewDesignator=D6A
+Change Component Designator: OldDesignator= NewDesignator=D6B
+Change Component Designator: OldDesignator= NewDesignator=D6C
+Change Component Designator: OldDesignator= NewDesignator=D6D
+Change Component Designator: OldDesignator= NewDesignator=D6E
+Change Component Designator: OldDesignator= NewDesignator=D6F
+Change Component Designator: OldDesignator= NewDesignator=D6G
+Change Component Designator: OldDesignator= NewDesignator=D6H
+Change Component Designator: OldDesignator= NewDesignator=D7A
+Change Component Designator: OldDesignator= NewDesignator=D7B
+Change Component Designator: OldDesignator= NewDesignator=D7C
+Change Component Designator: OldDesignator= NewDesignator=D7D
+Change Component Designator: OldDesignator= NewDesignator=D7E
+Change Component Designator: OldDesignator= NewDesignator=D7F
+Change Component Designator: OldDesignator= NewDesignator=D7G
+Change Component Designator: OldDesignator= NewDesignator=D7H
+Change Component Designator: OldDesignator= NewDesignator=Q1A
+Change Component Designator: OldDesignator= NewDesignator=Q1B
+Change Component Designator: OldDesignator= NewDesignator=Q1C
+Change Component Designator: OldDesignator= NewDesignator=Q1D
+Change Component Designator: OldDesignator= NewDesignator=Q1E
+Change Component Designator: OldDesignator= NewDesignator=Q1F
+Change Component Designator: OldDesignator= NewDesignator=Q1G
+Change Component Designator: OldDesignator= NewDesignator=Q1H
+Change component parameters: Designator = "U3" ("U3"); Footprint = "HF_SOT95P280X145-5M"; UniqueID = "\TECNKSDD\VUADGSQY" ("\TECNKSDD\VUADGSQY")
+Change component parameters (AddParameter): Name = "Name"; Value = "TC77-5.0MOA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI2_MISO Pin=U3-1
+Added Pin To Net: NetName=SPI2_SCK Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=SPI2_NSS Pin=U3-7
+Added Pin To Net: NetName=5V Pin=U3-8
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D0A (D0) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D0B (D0) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D0C (D0) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D0D (D0) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D0E (D0) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D0F (D0) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D0G (D0) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D0H (D0) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D1A (D1) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D1B (D1) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D1C (D1) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D1D (D1) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D1E (D1) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D1F (D1) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D1G (D1) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D1H (D1) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D2A (D2) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D2B (D2) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D2C (D2) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D2D (D2) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D2E (D2) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D2F (D2) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D2G (D2) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D2H (D2) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D3A (D3) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D3B (D3) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D3C (D3) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D3D (D3) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D3E (D3) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D3F (D3) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D3G (D3) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D3H (D3) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D4A (D4) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D4B (D4) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D4C (D4) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D4D (D4) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D4E (D4) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D4F (D4) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D4G (D4) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D4H (D4) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D5A (D5) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D5B (D5) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D5C (D5) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D5D (D5) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D5E (D5) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D5F (D5) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D5G (D5) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D5H (D5) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D6A (D6) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D6B (D6) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D6C (D6) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D6D (D6) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D6E (D6) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D6F (D6) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D6G (D6) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D6H (D6) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component D7A (D7) LED
+Added Member To Class: ClassName=U_Ledsor2 Member=Component D7B (D7) LED
+Added Member To Class: ClassName=U_Ledsor3 Member=Component D7C (D7) LED
+Added Member To Class: ClassName=U_Ledsor4 Member=Component D7D (D7) LED
+Added Member To Class: ClassName=U_Ledsor5 Member=Component D7E (D7) LED
+Added Member To Class: ClassName=U_Ledsor6 Member=Component D7F (D7) LED
+Added Member To Class: ClassName=U_Ledsor7 Member=Component D7G (D7) LED
+Added Member To Class: ClassName=U_Ledsor8 Member=Component D7H (D7) LED
+Added Member To Class: ClassName=U_Ledsor1 Member=Component Q1A (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor2 Member=Component Q1B (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor3 Member=Component Q1C (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor4 Member=Component Q1D (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor5 Member=Component Q1E (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor6 Member=Component Q1F (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor7 Member=Component Q1G (Q1) PMOS
+Added Member To Class: ClassName=U_Ledsor8 Member=Component Q1H (Q1) PMOS

@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=GND Pin=R2-2
+Change Component Comment : Designator=R3 Old Comment=100R New Comment=2K70
+Change Component Comment : Designator=R4 Old Comment=100R New Comment=2K70
+Change Component Comment : Designator=R5 Old Comment=100R New Comment=2K70
+Change Component Comment : Designator=R6 Old Comment=100R New Comment=2K70
+Change Component Comment : Designator=R1 Old Comment=100R New Comment=200R
+Change component parameters: Designator = "R1" ("R1"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\RZOXDKGF" ("\TECNKSDD\RZOXDKGF")
+Change component parameters (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\XEXKIPYV" ("\TECNKSDD\XEXKIPYV")
+Change component parameters (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2K70"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\CHCFNFFG" ("\TECNKSDD\CHCFNFFG")
+Change component parameters (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2K70"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\UCUZVMCZ" ("\TECNKSDD\UCUZVMCZ")
+Change component parameters (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2K70"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "HF_FP_0603_RES"; UniqueID = "\TECNKSDD\LRZOOOES" ("\TECNKSDD\LRZOOOES")
+Change component parameters (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2K70"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HF_POT)
+Add component (AddParameter): Name = "Name"; Value = "RKT-C3305"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=R2-2
+Added Net: Name=NetP1_3
+Added Member To Class: ClassName=U_Vezerlo Member=Component P1 RKT-C3305

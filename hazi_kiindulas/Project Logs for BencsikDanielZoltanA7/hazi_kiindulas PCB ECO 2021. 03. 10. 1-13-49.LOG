@@ -1,0 +1,760 @@
+Change component parameters: Designator = "U1" ("U1"); Footprint = "FP_NUCLEO-64"; UniqueID = "\JHEAWJLX\GBBUYTFO" ("\JHEAWJLX\GBBUYTFO")
+Change component parameters (AddParameter): Name = "Name"; Value = "Nucleo F446RE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "NUCLEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Tanszék"; VariantName = "[No Variations]"
+Added Component: Designator=B0(FP_BTN_SMD)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B1(FP_BTN_SMD)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2(FP_BTN_SMD)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B3(FP_BTN_SMD)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(FP_0603_CAP_080)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(FP_0603_CAP_080)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(FP_0603_CAP_080)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D0A(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D0B(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D0C(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D0D(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D0E(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D0F(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D0G(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D0H(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1A(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1B(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1C(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1D(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1E(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1F(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1G(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1H(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2A(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2B(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2C(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2D(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2E(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2F(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2G(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2H(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3A(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3B(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3C(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3D(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3E(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3F(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3G(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3H(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4A(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4B(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4C(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4D(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4E(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4F(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4G(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4H(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5A(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5B(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5C(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5D(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5E(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5F(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5G(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5H(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6A(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6B(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6C(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6D(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6E(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6F(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6G(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6H(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7A(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7B(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7C(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7D(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7E(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7F(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7G(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7H(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8(HF_FP_0805_LED_BLUE&RED)
+Add component (AddParameter): Name = "I_max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_fw"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D9(FP_SMA)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_Z"; Value = "24"; VariantName = "[No Variations]"
+Added Component: Designator=F1(FP_MULTIFUSE)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(FP_DC_TAP_ANYA)
+Add component (AddParameter): Name = "Name"; Value = "TÁP DC ANYA 5.5/2.1/9.5mm DCS-5521-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "43-07-67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Added Component: Designator=Q1A(FP_SOT23-3)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1B(FP_SOT23-3)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1C(FP_SOT23-3)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1D(FP_SOT23-3)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1E(FP_SOT23-3)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1F(FP_SOT23-3)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1G(FP_SOT23-3)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1H(FP_SOT23-3)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K70"; VariantName = "[No Variations]"
+Added Component: Designator=R3(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R6(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R7A(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K70"; VariantName = "[No Variations]"
+Added Component: Designator=R7B(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K70"; VariantName = "[No Variations]"
+Added Component: Designator=R7C(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K70"; VariantName = "[No Variations]"
+Added Component: Designator=R7D(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K70"; VariantName = "[No Variations]"
+Added Component: Designator=R7E(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K70"; VariantName = "[No Variations]"
+Added Component: Designator=R7F(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K70"; VariantName = "[No Variations]"
+Added Component: Designator=R7G(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K70"; VariantName = "[No Variations]"
+Added Component: Designator=R7H(HF_FP_0603_RES)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K70"; VariantName = "[No Variations]"
+Added Component: Designator=U2(TSOP65P640X120-16M)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(HF_SOT95P280X145-5M)
+Add component (AddParameter): Name = "Name"; Value = "TC77-5.0MOA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=F1-2
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=5V Pin=R3-2
+Added Pin To Net: NetName=5V Pin=R4-2
+Added Pin To Net: NetName=5V Pin=R5-2
+Added Pin To Net: NetName=5V Pin=R6-2
+Added Pin To Net: NetName=5V Pin=U1-6
+Added Pin To Net: NetName=5V Pin=U2-16
+Added Pin To Net: NetName=5V Pin=U3-5
+Added Pin To Net: NetName=5V Pin=Q1A-2
+Added Pin To Net: NetName=5V Pin=Q1B-2
+Added Pin To Net: NetName=5V Pin=Q1C-2
+Added Pin To Net: NetName=5V Pin=Q1D-2
+Added Pin To Net: NetName=5V Pin=Q1E-2
+Added Pin To Net: NetName=5V Pin=Q1F-2
+Added Pin To Net: NetName=5V Pin=Q1G-2
+Added Pin To Net: NetName=5V Pin=Q1H-2
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=B0-1
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B2-1
+Added Pin To Net: NetName=GND Pin=B3-1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=GND Pin=U1-58
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetB0_3 Pin=B0-3
+Added Pin To Net: NetName=NetB0_3 Pin=R3-1
+Added Pin To Net: NetName=NetB0_3 Pin=U1-34
+Added Net: Name=NetB0_3
+Added Pin To Net: NetName=NetB1_3 Pin=B1-3
+Added Pin To Net: NetName=NetB1_3 Pin=R4-1
+Added Pin To Net: NetName=NetB1_3 Pin=U1-62
+Added Net: Name=NetB1_3
+Added Pin To Net: NetName=NetB2_3 Pin=B2-3
+Added Pin To Net: NetName=NetB2_3 Pin=R5-1
+Added Pin To Net: NetName=NetB2_3 Pin=U1-60
+Added Net: Name=NetB2_3
+Added Pin To Net: NetName=NetB3_3 Pin=B3-3
+Added Pin To Net: NetName=NetB3_3 Pin=R6-1
+Added Pin To Net: NetName=NetB3_3 Pin=U1-69
+Added Net: Name=NetB3_3
+Added Pin To Net: NetName=NetD0A_1 Pin=Q1A-3
+Added Net: Name=NetD0A_1
+Added Pin To Net: NetName=NetD0A_2 Pin=U2-5
+Added Net: Name=NetD0A_2
+Added Pin To Net: NetName=NetD0B_1 Pin=Q1B-3
+Added Net: Name=NetD0B_1
+Added Pin To Net: NetName=NetD0C_1 Pin=Q1C-3
+Added Net: Name=NetD0C_1
+Added Pin To Net: NetName=NetD0D_1 Pin=Q1D-3
+Added Net: Name=NetD0D_1
+Added Pin To Net: NetName=NetD0E_1 Pin=Q1E-3
+Added Net: Name=NetD0E_1
+Added Pin To Net: NetName=NetD0F_1 Pin=Q1F-3
+Added Net: Name=NetD0F_1
+Added Pin To Net: NetName=NetD0G_1 Pin=Q1G-3
+Added Net: Name=NetD0G_1
+Added Pin To Net: NetName=NetD0H_1 Pin=Q1H-3
+Added Net: Name=NetD0H_1
+Added Pin To Net: NetName=NetD1A_2 Pin=U2-6
+Added Net: Name=NetD1A_2
+Added Pin To Net: NetName=NetD2A_2 Pin=U2-7
+Added Net: Name=NetD2A_2
+Added Pin To Net: NetName=NetD3A_2 Pin=U2-8
+Added Net: Name=NetD3A_2
+Added Pin To Net: NetName=NetD4A_2 Pin=U2-9
+Added Net: Name=NetD4A_2
+Added Pin To Net: NetName=NetD5A_2 Pin=U2-10
+Added Net: Name=NetD5A_2
+Added Pin To Net: NetName=NetD6A_2 Pin=U2-11
+Added Net: Name=NetD6A_2
+Added Pin To Net: NetName=NetD7A_2 Pin=U2-12
+Added Net: Name=NetD7A_2
+Added Pin To Net: NetName=NetD8_1 Pin=R1-1
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=J1-1
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetQ1A_1 Pin=Q1A-1
+Added Pin To Net: NetName=NetQ1A_1 Pin=R7A-2
+Added Net: Name=NetQ1A_1
+Added Pin To Net: NetName=NetQ1B_1 Pin=Q1B-1
+Added Pin To Net: NetName=NetQ1B_1 Pin=R7B-2
+Added Net: Name=NetQ1B_1
+Added Pin To Net: NetName=NetQ1C_1 Pin=Q1C-1
+Added Pin To Net: NetName=NetQ1C_1 Pin=R7C-2
+Added Net: Name=NetQ1C_1
+Added Pin To Net: NetName=NetQ1D_1 Pin=Q1D-1
+Added Pin To Net: NetName=NetQ1D_1 Pin=R7D-2
+Added Net: Name=NetQ1D_1
+Added Pin To Net: NetName=NetQ1E_1 Pin=Q1E-1
+Added Pin To Net: NetName=NetQ1E_1 Pin=R7E-2
+Added Net: Name=NetQ1E_1
+Added Pin To Net: NetName=NetQ1F_1 Pin=Q1F-1
+Added Pin To Net: NetName=NetQ1F_1 Pin=R7F-2
+Added Net: Name=NetQ1F_1
+Added Pin To Net: NetName=NetQ1G_1 Pin=Q1G-1
+Added Pin To Net: NetName=NetQ1G_1 Pin=R7G-2
+Added Net: Name=NetQ1G_1
+Added Pin To Net: NetName=NetQ1H_1 Pin=Q1H-1
+Added Pin To Net: NetName=NetQ1H_1 Pin=R7H-2
+Added Net: Name=NetQ1H_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-15
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR7A_1 Pin=R7A-1
+Added Pin To Net: NetName=NetR7A_1 Pin=U1-38
+Added Net: Name=NetR7A_1
+Added Pin To Net: NetName=NetR7B_1 Pin=R7B-1
+Added Pin To Net: NetName=NetR7B_1 Pin=U1-36
+Added Net: Name=NetR7B_1
+Added Pin To Net: NetName=NetR7C_1 Pin=R7C-1
+Added Pin To Net: NetName=NetR7C_1 Pin=U1-35
+Added Net: Name=NetR7C_1
+Added Pin To Net: NetName=NetR7D_1 Pin=R7D-1
+Added Pin To Net: NetName=NetR7D_1 Pin=U1-37
+Added Net: Name=NetR7D_1
+Added Pin To Net: NetName=NetR7E_1 Pin=R7E-1
+Added Pin To Net: NetName=NetR7E_1 Pin=U1-72
+Added Net: Name=NetR7E_1
+Added Pin To Net: NetName=NetR7F_1 Pin=R7F-1
+Added Pin To Net: NetName=NetR7F_1 Pin=U1-44
+Added Net: Name=NetR7F_1
+Added Pin To Net: NetName=NetR7G_1 Pin=R7G-1
+Added Pin To Net: NetName=NetR7G_1 Pin=U1-42
+Added Net: Name=NetR7G_1
+Added Pin To Net: NetName=NetR7H_1 Pin=R7H-1
+Added Pin To Net: NetName=NetR7H_1 Pin=U1-57
+Added Net: Name=NetR7H_1
+Added Pin To Net: NetName=SPI1_MISO Pin=U1-51
+Added Pin To Net: NetName=SPI1_MISO Pin=U2-14
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SPI1_MOSI Pin=U1-53
+Added Pin To Net: NetName=SPI1_MOSI Pin=U2-2
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=SPI1_SCK Pin=U1-49
+Added Pin To Net: NetName=SPI1_SCK Pin=U2-3
+Added Net: Name=SPI1_SCK
+Added Pin To Net: NetName=SPI2_MISO Pin=U1-66
+Added Pin To Net: NetName=SPI2_MISO Pin=U3-4
+Added Net: Name=SPI2_MISO
+Added Pin To Net: NetName=SPI2_NSS Pin=U1-54
+Added Pin To Net: NetName=SPI2_NSS Pin=U3-1
+Added Net: Name=SPI2_NSS
+Added Pin To Net: NetName=SPI2_SCK Pin=U1-68
+Added Pin To Net: NetName=SPI2_SCK Pin=U3-3
+Added Net: Name=SPI2_SCK
+Added Pin To Net: NetName=SR_LE Pin=U1-61
+Added Pin To Net: NetName=SR_LE Pin=U2-4
+Added Net: Name=SR_LE
+Added Pin To Net: NetName=SR_O\E\ Pin=U1-59
+Added Pin To Net: NetName=SR_O\E\ Pin=U2-13
+Added Net: Name=SR_O\E\
+Change Class Name : Old Net Name=Nucleo New Net Name=U_Nucleo
+Added Class: Name=U_Ledsor1
+Added Class: Name=U_Ledsor2
+Added Class: Name=U_Ledsor3
+Added Class: Name=U_Ledsor4
+Added Class: Name=U_Ledsor5
+Added Class: Name=U_Ledsor6
+Added Class: Name=U_Ledsor7
+Added Class: Name=U_Ledsor8
+Added Class: Name=U_Vezerlo
+Added Class: Name=Ledsor
